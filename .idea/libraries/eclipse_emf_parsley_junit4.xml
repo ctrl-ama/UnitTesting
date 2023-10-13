@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="eclipse.emf.parsley.junit4" type="repository">
+    <properties maven-id="org.eclipse.emf.parsley:org.eclipse.emf.parsley.junit4:1.10.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.emf.parsley.junit4-1.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
